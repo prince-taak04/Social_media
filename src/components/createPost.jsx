@@ -8,7 +8,7 @@ const CreatePost = () => {
     <Form method="post" action="/create-post" className="create-post">
       <div className="mb-3">
         <label htmlFor="userId" className="form-label">
-          Enter your UserId
+         Please Enter your UserId
         </label>
         <input
           type="text"
